@@ -1,0 +1,22 @@
+-- Downloading https://github.com/glfw/glfw/archive/7482de6071d21db77a7236155da44c172a7f6c9e.tar.gz -> glfw-glfw-7482de6071d21db77a7236155da44c172a7f6c9e.tar.gz...
+-- Extracting source C:/Users/GrawPC/AppData/Local/vcpkg/downloads/glfw-glfw-7482de6071d21db77a7236155da44c172a7f6c9e.tar.gz
+-- Using source at C:/Users/GrawPC/Desktop/workspace/cpp/vulkan-cmake/vcpkg_installed/vcpkg/blds/glfw3/src/172a7f6c9e-7678776297.clean
+GLFW3 currently requires the following libraries from the system package manager:
+    xinerama
+    xcursor
+    xorg
+    libglu1-mesa
+    pkg-config
+
+These can be installed via brew install libxinerama-dev libxcursor-dev xorg-dev libglu1-mesa-dev pkg-config
+-- Found external ninja('1.11.0').
+-- Configuring x86-windows
+-- Building x86-windows-dbg
+-- Building x86-windows-rel
+-- Fixing pkgconfig file: C:/Users/GrawPC/Desktop/workspace/cpp/vulkan-cmake/vcpkg_installed/vcpkg/pkgs/glfw3_x86-windows/lib/pkgconfig/glfw3.pc
+-- Downloading https://repo.msys2.org/mingw/i686/mingw-w64-i686-pkg-config-0.29.2-3-any.pkg.tar.zst;https://www2.futureware.at/~nickoe/msys2-mirror/mingw/i686/mingw-w64-i686-pkg-config-0.29.2-3-any.pkg.tar.zst;https://mirror.yandex.ru/mirrors/msys2/mingw/i686/mingw-w64-i686-pkg-config-0.29.2-3-any.pkg.tar.zst;https://mirrors.tuna.tsinghua.edu.cn/msys2/mingw/i686/mingw-w64-i686-pkg-config-0.29.2-3-any.pkg.tar.zst;https://mirrors.ustc.edu.cn/msys2/mingw/i686/mingw-w64-i686-pkg-config-0.29.2-3-any.pkg.tar.zst;https://mirror.bit.edu.cn/msys2/mingw/i686/mingw-w64-i686-pkg-config-0.29.2-3-any.pkg.tar.zst;https://mirror.selfnet.de/msys2/mingw/i686/mingw-w64-i686-pkg-config-0.29.2-3-any.pkg.tar.zst;https://mirrors.sjtug.sjtu.edu.cn/msys2/mingw/i686/mingw-w64-i686-pkg-config-0.29.2-3-any.pkg.tar.zst -> msys-mingw-w64-i686-pkg-config-0.29.2-3-any.pkg.tar.zst...
+-- Downloading https://repo.msys2.org/mingw/i686/mingw-w64-i686-libwinpthread-git-9.0.0.6373.5be8fcd83-1-any.pkg.tar.zst;https://www2.futureware.at/~nickoe/msys2-mirror/mingw/i686/mingw-w64-i686-libwinpthread-git-9.0.0.6373.5be8fcd83-1-any.pkg.tar.zst;https://mirror.yandex.ru/mirrors/msys2/mingw/i686/mingw-w64-i686-libwinpthread-git-9.0.0.6373.5be8fcd83-1-any.pkg.tar.zst;https://mirrors.tuna.tsinghua.edu.cn/msys2/mingw/i686/mingw-w64-i686-libwinpthread-git-9.0.0.6373.5be8fcd83-1-any.pkg.tar.zst;https://mirrors.ustc.edu.cn/msys2/mingw/i686/mingw-w64-i686-libwinpthread-git-9.0.0.6373.5be8fcd83-1-any.pkg.tar.zst;https://mirror.bit.edu.cn/msys2/mingw/i686/mingw-w64-i686-libwinpthread-git-9.0.0.6373.5be8fcd83-1-any.pkg.tar.zst;https://mirror.selfnet.de/msys2/mingw/i686/mingw-w64-i686-libwinpthread-git-9.0.0.6373.5be8fcd83-1-any.pkg.tar.zst;https://mirrors.sjtug.sjtu.edu.cn/msys2/mingw/i686/mingw-w64-i686-libwinpthread-git-9.0.0.6373.5be8fcd83-1-any.pkg.tar.zst -> msys-mingw-w64-i686-libwinpthread-git-9.0.0.6373.5be8fcd83-1-any.pkg.tar.zst...
+-- Using msys root at C:/Users/GrawPC/AppData/Local/vcpkg/downloads/tools/msys2/9a1ec3f33446b195
+-- Fixing pkgconfig file: C:/Users/GrawPC/Desktop/workspace/cpp/vulkan-cmake/vcpkg_installed/vcpkg/pkgs/glfw3_x86-windows/debug/lib/pkgconfig/glfw3.pc
+-- Installing: C:/Users/GrawPC/Desktop/workspace/cpp/vulkan-cmake/vcpkg_installed/vcpkg/pkgs/glfw3_x86-windows/share/glfw3/copyright
+-- Performing post-build validation

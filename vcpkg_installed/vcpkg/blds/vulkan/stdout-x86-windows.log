@@ -1,0 +1,6 @@
+-- Querying VULKAN_SDK Enviroment variable
+-- Searching C:/VulkanSDK/1.3.250.1/include/vulkan/ for vulkan.h
+-- Found vulkan.h
+-- Found Vulkan SDK version 1.3.250.1
+-- Installing: C:/Users/GrawPC/Desktop/workspace/cpp/vulkan-cmake/vcpkg_installed/vcpkg/pkgs/vulkan_x86-windows/share/vulkan/usage
+-- Performing post-build validation

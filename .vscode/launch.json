@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Debug",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "${workspaceFolder}/build/Debug/VulkanApp.exe",
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": "${workspaceFolder}/build/Debug/",
+        "environment": [],
+        "MIMode": "gdb",
+        "miDebuggerPath": "gdb"
+      }
+    ]
+  }
